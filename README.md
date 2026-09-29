@@ -5,6 +5,18 @@
 
 ---
 
+## 📥 Download
+
+### 🎮 Default Mobile Controls
+
+[⬇️ Download `default.json`](https://github.com/asdasder456123/Launcher-Mobile-Controls/raw/refs/heads/master/layouts/default.json)
+
+ضع الملف في مجلد `controlmap` الخاص باللانشر، ثم حمّله من إعدادات التحكم المخصصة.
+
+> ⚠️ مكان الملف قد يختلف حسب اللانشر وإصداره.
+
+---
+
 ## 🇪🇬 العربية
 
 ### 📱 ما هو هذا المشروع؟

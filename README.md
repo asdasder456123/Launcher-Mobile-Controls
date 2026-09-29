@@ -17,6 +17,10 @@
 
 ---
 
+## 📥 التحميل
+
+[⬇️ تحميل إعدادات التحكم](https://github.com/asdasder456123/Launcher-Mobile-Controls/releases/tag/controls)
+
 ## 🇪🇬 العربية
 
 ### 📱 ما هو هذا المشروع؟
